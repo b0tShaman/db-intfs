@@ -5,7 +5,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"db-intfs/db"
+	"github.com/b0tShaman/db-intfs/db"
 )
 
 // Simple struct to insert
