@@ -1,4 +1,4 @@
-module db-intfs
+module github.com/b0tShaman/db-intfs
 
 go 1.23.12
 
