@@ -1,4 +1,4 @@
-module dbintfs
+module db-intfs
 
 go 1.23.12
 
