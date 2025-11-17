@@ -59,7 +59,7 @@ http://localhost:8091
 Inside your Go project:
 
 ```bash
-go get github.com/b0tShaman/db-intfs
+go get "github.com/b0tShaman/db-intfs"
 ```
 
 ---
