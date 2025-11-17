@@ -73,7 +73,7 @@ package main
 
 import (
     "fmt"
-    db "github.com/b0tShaman/db-intfs"
+    db "github.com/b0tShaman/db-intfs/db"
 )
 
 func main() {
